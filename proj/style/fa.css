@@ -1,0 +1,150 @@
+/* font-awesome social media */
+
+.fa {
+  margin: 0 5px 0 5px;
+  padding: 50px;
+  font-size: 50px;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid #2A2A2A;
+  border-radius: 50%;
+  background: #e4e4e4;
+  object-fit: cover; 
+}
+
+@media only screen and (max-width: 623px){
+   .fa {
+    margin-top: 10px;
+   }
+}
+
+
+.fa:hover {
+    border: 1px solid #2A2A2A;
+    /*color: #2A2A2A;
+    background-color: white;*/
+}
+
+.fa-facebook {
+  color: #2A2A2A;
+  padding-left: 55px;
+  padding-right: 55px;
+  border-radius: 50%;
+}
+
+.fa-facebook:hover {
+    color: white;
+    background: #3B5998;
+}
+
+.fa-twitter {
+  color: #2A2A2A;
+}
+
+.fa-twitter:hover {
+    color: white;
+    background: #55ACEE;
+}
+
+.fa-google {
+  color: white;
+}
+
+.fa-linkedin {
+  color: #2A2A2A;
+}
+
+.fa-linkedin:hover {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-youtube {
+  color: white;
+}
+
+.fa-instagram {
+  color: white;
+}
+
+.fa-instagram:hover {
+    background: #f09433; 
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  }
+
+.fa-quora {
+  color: white;
+}
+
+.fa-quora:hover {
+  background: #a82400;
+}
+
+.fa-pinterest {
+  color: white;
+}
+
+.fa-snapchat-ghost {
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.fa-skype {
+  color: white;
+}
+
+.fa-android {
+  color: white;
+}
+
+.fa-dribbble {
+  color: white;
+}
+
+.fa-vimeo {
+  color: white;
+}
+
+.fa-tumblr {
+  color: white;
+}
+
+.fa-vine {
+  color: white;
+}
+
+.fa-foursquare {
+  color: white;
+}
+
+.fa-stumbleupon {
+  color: white;
+}
+
+.fa-flickr {
+  color: white;
+}
+
+.fa-yahoo {
+  color: white;
+}
+
+.fa-soundcloud {
+  color: white;
+}
+
+.fa-reddit {
+  color: #2A2A2A;
+}
+
+.fa-reddit:hover {
+  background: #FF4500;
+  color: white;
+}
+
+.fa-rss {
+  color: white;
+}
